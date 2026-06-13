@@ -1,6 +1,6 @@
-# Deep Reinforcement Learning for Competitive Agents in Real-Time Strategy Games
+# Deep Reinforcement Learning for Competitive Agents in MicroRTS
 
-> **Application to the MicroRTS Environment** — Supplementary materials website for a Work-in-Progress paper by [Mathis Delsart](https://github.com/mathisdelsart).
+> **Architecture, Training, and Tournament Evaluation** — Supplementary materials website for a Work-in-Progress paper by [Mathis Delsart](https://github.com/mathisdelsart).
 
 This repository hosts the source of a Jekyll-based GitHub Pages site that collects **reproducible evidence** behind the tournament results reported in the paper: game recordings, head-to-head matrices, and game-theoretic rankings (Nash, Alpha-Rank, Copeland, robustness) for a deep RL agent trained and evaluated on the single-map `basesWorkers16x16A` MicroRTS setting.
 
